@@ -1,0 +1,37 @@
+table {
+
+    border-collapse: collapse;
+    width: 70%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.buttons {
+ border: 0;
+ background-color: white;
+}
+#newRow {
+    display: none;
+    
+}
+button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: grey;
+    border-radius: 5px;
+    border: 0;
+}
+form {
+    margin-left: 700px;
+}
+label {
+    padding-bottom: 10px;
+}
+input {
+    margin-top: 10px;
+}
